@@ -53,7 +53,7 @@ mkdir -p src/routes/send/[[to]]
 mkdir -p src/routes/settings
 ```
 
-# 3. Install tailwindcss
+## 3. Install tailwindcss
 
 ```bash
 npm install -D tailwindcss postcss autoprefixer
